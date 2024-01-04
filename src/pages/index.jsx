@@ -27,11 +27,13 @@ export default function Home() {
         <link rel="icon" href="/favicon.png" />
       </Head>
       <main>
-        <img
-          style={{ display: "none" }}
-          src="/87e11eeeaad022ab976f8f86047c3bd1.gif"
-          alt="bocchiEaster-egg"
-        />
+        <span style={{ display: "none" }}>
+          <img
+            src="/87e11eeeaad022ab976f8f86047c3bd1.gif"
+            alt="bocchiEaster-egg"
+          />
+        </span>
+
         <div class="container-fluid container00 container01">
           <div class="container">
             <header class="header">
